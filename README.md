@@ -78,15 +78,16 @@ The robot continuously scans its surroundings, detects obstacles, and automatica
 
 ---
 
-## Project Images
+## Circuit Diagram
 
-Add project photographs inside the images folder.
+Added project photographs inside the images folder.
 
 ---
 
 ## Demonstration Video
 
-Add a YouTube video link in the videos folder.
+https://www.youtube.com/watch?v=9A9Wnhvn_Kc
+https://www.youtube.com/watch?v=WF7uMh7em00
 
 ---
 
@@ -113,4 +114,4 @@ Add a YouTube video link in the videos folder.
 
 ## Author
 
-Nikshay
+Nikshay Kumar
